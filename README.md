@@ -12,5 +12,5 @@ Orb rewards, progress, gameplay, local editor entries, and the level detail scre
 - Geometry Dash 2.2081
 - Geode SDK and runtime 5.11.1
 - Mod ID: `2pb.old-download-counter`
-- Version: `v0.2.0`
+- Version: `v0.2.1`
 - Required mod: `geode.node-ids >= v1.23.3`

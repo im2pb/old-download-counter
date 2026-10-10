@@ -3,9 +3,12 @@
 	"gd": {
 		"win": "2.2081"
 	},
+	"links": {
+		"source": "https://github.com/im2pb/old-download-counter"
+	},
 	"id": "2pb.old-download-counter",
 	"name": "Old Download Counter",
-	"version": "v0.2.0",
+	"version": "v0.2.1",
 	"developer": "2pb",
 	"description": "Full download and like counts in level lists, with the orb display hidden.",
 	"dependencies": {
